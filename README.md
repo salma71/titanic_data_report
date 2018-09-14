@@ -24,10 +24,12 @@ I found some interesting facts. Some of them are but not limited to:
     * Most of the Third class were men.
     * Most of the Third class were from Brooklyne.
     * Children had a better chance to survive regardless their boarding class ticket.
+    * Families had a better chance to survive.
 
 ## Technologies used
 
 More than one library used to create that report. 
+
     * Numpy, Panda were used to handle working with series and data frames. 
     * Both Seaborn and Matplotlib libraries were used to visualize the results nicely. 
     * Other helper functions were written in pure Python.
